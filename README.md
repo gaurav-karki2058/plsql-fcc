@@ -1,2 +1,2 @@
 # plsql-fcc
-plsql test by creating a bsaic sample database for universe
+plsql test by creating a basic sample database for universe.
